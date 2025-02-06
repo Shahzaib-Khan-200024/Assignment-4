@@ -105,7 +105,7 @@ const Footer = () => {
             <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
               Shop.co © Made by {" "}
               <Link
-                href="https://github.com/Shahzaib-Khan-200024"
+                href="https://shah-folio-c32178.netlify.app/"
                 className="text-black font-medium"
                 target="_blank"
               >

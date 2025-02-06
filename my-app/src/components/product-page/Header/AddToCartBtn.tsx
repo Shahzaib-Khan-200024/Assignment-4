@@ -3,7 +3,7 @@
 import React from "react";
 import { Product } from "@/types/product.types";
 
-const AddToCartBtn = ({ data }: { data: Product & { quantity: number } }) => {
+const AddToCartBtn = ({}: { data: Product & { quantity: number } }) => {
   return (
     <button
       type="button"
